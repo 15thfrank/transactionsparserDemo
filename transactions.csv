@@ -1,0 +1,21 @@
+Sender Full Name,Sender Account Number,Amount,Recipient Full Name,Recipient Account Number,Flagged?,Flagged Comments,Timestamp
+Paul Garcia,2333102537,6927961,Li Garcia,2444102538,True,Non-correlation between transaction amount and customer.,2023-01-06 18:44:01.415725
+Michael Smith,2333102387,1810256,Juan Moore,2444102389,False,This transaction passed all tests.,2023-01-06 18:44:01.916621
+Sunita Moore,2444102463,4441549,Manuel Hernandez,2444102473,True,Many transactions originating from similar IP addresses.,2023-01-06 18:44:02.417141
+Andrey Hall,2444102354,4944024,Anna Taylor,2333102356,False,This transaction passed all tests.,2023-01-06 18:44:02.917510
+Fatima Martinez,2444102437,5549009,Ahmad Hall,2333102438,False,This transaction passed all tests.,2023-01-06 18:44:03.418146
+Emmanuel Robinson,2444102543,3040139,Tatyana Gonzalez,2333102563,False,This transaction passed all tests.,2023-01-06 18:44:03.918750
+Sergey Lopez,2444102349,5729790,Andrey Hall,2444102354,True,Suspicious settling of royalty fees to client account in foreing currency.,2023-01-06 18:44:04.419453
+Sergey Lopez,2444102349,7274730,Andrey Hall,2444102354,True,Suspicious settling of royalty fees to client account in foreing currency.,2023-01-06 18:44:04.919990
+Lin Harris,2333102358,897304,Manuel Lopez,2444102359,False,This transaction passed all tests.,2023-01-06 18:44:05.420511
+Emmanuel Robinson,2444102543,2544770,Tatyana Gonzalez,2333102563,False,This transaction passed all tests.,2023-01-06 18:44:05.921147
+Marina Perez,2333102367,8328465,Abdul Clark,2444102368,True,Many transactions originating from similar IP addresses.,2023-01-06 18:44:06.421785
+Richard Martin,2444102357,511063,Lin Harris,2333102358,False,This transaction passed all tests.,2023-01-06 18:44:06.922304
+Martin Wilson,2333102394,4142111,Angela White,2444102395,True,Suspected evasion of mandatory tracking procedures.,2023-01-06 18:44:07.422952
+Ibrahim Gonzalez,2444102483,5448693,William Davis,2444102493,False,This transaction passed all tests.,2023-01-06 18:44:07.923550
+Ahmad Hall,2333102438,9378214,Daniel Martinez,2444102439,True,Suspicious settling of royalty fees to client account in foreing currency.,2023-01-06 18:44:08.424162
+Anna Taylor,2333102356,6752244,Richard Martin,2444102357,False,This transaction passed all tests.,2023-01-06 18:44:08.924667
+Michael Smith,2333102387,4938045,Juan Moore,2444102389,True,Non-correlation between transaction amount and customer.,2023-01-06 18:44:09.425186
+Lei Martin,2333102379,1274827,Andrea Miller,2444102384,False,This transaction passed all tests.,2023-01-06 18:44:09.925908
+Anna Lee,2444102453,3165601,Sunita Moore,2444102463,True,Suspected evasion of mandatory tracking procedures.,2023-01-06 18:44:10.426577
+Sergey Lopez,2444102349,9329316,Andrey Hall,2444102354,True,Many transactions originating from similar IP addresses.,2023-01-06 18:44:10.927000
